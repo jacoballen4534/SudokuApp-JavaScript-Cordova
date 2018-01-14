@@ -1,0 +1,19 @@
+.horizontalSep{
+    border-top: 3px solid black;
+}
+
+.verticalSep{
+    border-left: 3px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    height: 20px;
+}
+
+table, td {
+    border: 1px solid black;
+}
