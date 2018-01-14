@@ -106,47 +106,66 @@ function finalCheck(FullGrid) {
         }
     }
 
-    if (Full) {
-        let ValidRow = 0;
-        let ValidCol = 0;
-        let ValidSquare = 0;
-        let FullGridCol = [];
-        //Check Rows and Cols
-        for (let i = 0; i < 9; i++) {
+    let ValidRow = 0;
+    let ValidCol = 0;
+    let ValidSquare = 0;
+    let FullGridCol = [];
+    //Check Rows and Cols
+    for (let i = 0; i < 9; i++) {
+        if (Full) {
             ValidRow += (CheckIfValid(FullGrid[i]));
+        } else {
+            ValidRow += (checkDuplicate(FullGrid[i]));
+        }
 
-            for (let j = 0; j < 9; j++) {
-                FullGridCol[j] = FullGrid[j][i]
-            }
+
+
+        for (let j = 0; j < 9; j++) {
+            FullGridCol[j] = FullGrid[j][i]
+        }
+        if (Full) {
             ValidCol += (CheckIfValid(FullGridCol));
+        } else {
+            ValidCol += (checkDuplicate(FullGridCol));
         }
 
-        // Check Squares
-        let countin;
-        let FullGridSquare = [];
-        for (let row = 3; row <= 9; row += 3) {
-            for (let col = 3; col <= 9; col += 3) {
-                countin = 0;
-                for (let i = row - 3; i < row; i++) {
-                    for (let j = col - 3; j < col; j++) {
-                        FullGridSquare[countin] = FullGrid[i][j];
-                        countin++;
-                    }
+
+
+    }
+
+    // Check Squares
+    let countin;
+    let FullGridSquare = [];
+    for (let row = 3; row <= 9; row += 3) {
+        for (let col = 3; col <= 9; col += 3) {
+            countin = 0;
+            for (let i = row - 3; i < row; i++) {
+                for (let j = col - 3; j < col; j++) {
+                    FullGridSquare[countin] = FullGrid[i][j];
+                    countin++;
                 }
-                ValidSquare += (CheckIfValid(FullGridSquare));
             }
-        }
+            if (Full) {
+                ValidSquare += (CheckIfValid(FullGridSquare));
+            } else {
+                ValidSquare += (checkDuplicate(FullGridSquare));
+            }
 
-        let ProperFinished = (ValidRow === 9) && (ValidCol === 9) && (ValidSquare === 9);
 
-        if (!ProperFinished) {
-            ValidSoFar = 0;
-        }
 
-        if (ProperFinished && ValidSoFar) {
-            Done = 1;
         }
     }
+
+    let ProperFinished = (ValidRow === 9) && (ValidCol === 9) && (ValidSquare === 9);
+
+    if (!ProperFinished) {
+        ValidSoFar = 0;
+    }
+
+    if (ProperFinished && ValidSoFar && Full) {
+        Done = 1;
+    }
+
     return [Done, Full, ValidSoFar];
 }
 
@@ -191,3 +210,19 @@ function TableToArray() {
     return StartingFullGrid;
 }
 
+
+function checkDuplicate (toCheck) {
+    let toStore = new Array(10);
+    let Valid = 1;
+
+
+    for (let i = 0; i < 9; i++) {
+        if (toStore[toCheck[i]] && toCheck[i] !== 0){
+            Valid = 0;
+            return Valid;
+        } else {
+            toStore[toCheck[i]] = 1;
+        }
+    }
+    return Valid;
+}

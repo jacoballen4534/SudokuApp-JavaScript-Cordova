@@ -11,9 +11,17 @@ table {
 }
 
 tr {
-    height: 20px;
+    height: 10%;
 }
 
 table, td {
     border: 1px solid black;
+}
+
+td {
+    width: 10%;
+}
+
+input {
+    size: inherit;
 }

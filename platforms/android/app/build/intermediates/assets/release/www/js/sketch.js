@@ -1,6 +1,3 @@
-
-
-
 // let StartingFullGrid =
 //     [[1,2,3,4,5,6,7,8,9],
 //         [4,5,6,7,8,9,1,2,3],
@@ -98,7 +95,7 @@ function setUp() {
     }
 
     // console.log(console.table(DoneGrid));
-    console.log(HowManyTimes);
+    //console.log(HowManyTimes);
     if (DoneGrid.length !== 0) {
         drawTable(DoneGrid);
     } else {
@@ -113,11 +110,21 @@ function drawTable(doneGrid) {
         let text = "";
         let table = document.getElementById('table');
         for (let i = 0; i < 9; i++) {
-            text += '<tr>';
-            for (let j = 0; j < 9; j++) {
-                text += '<td>' + '<input type="text" name="' + i + '' + j + '" maxlength="1" size="2" value="' + doneGrid[i][j] + '"/></td>';
+            if (i === 3 || i === 6) {
+                text+='<tr class="horizontalSep">';
+            } else {
+                text+='<tr>';
             }
-            text += '</tr>';
+            for (let j = 0; j < 9; j++) {
+
+                text+='<td';
+                if (j === 3 || j === 6) {
+                    text+= ' class="verticalSep"';
+                }
+
+                text += '><input style="width:8vmin; height:8vmin" type="tel" name="' + i + '' + j + '" maxlength="1" size="1" value="' + doneGrid[i][j] + '"/></td>';
+            }
+            text+='</tr>';
         }
         table.innerHTML = text;
     }
@@ -125,6 +132,7 @@ function drawTable(doneGrid) {
 
 
 function inputTable() {
+
     let text = "";
     let table = document.getElementById('table');
     for(let i = 0; i < 9; i++){
@@ -138,7 +146,8 @@ function inputTable() {
             if (j === 3 || j === 6) {
                 text+= ' class="verticalSep"';
             }
-            text+= '><input type="text" name="'+i +'' +j +'" maxlength="1" size="2" value=""/></td>';
+
+            text+= '><input style="width:8vmin; height:8vmin" type="tel" name="'+i +'' +j +'" maxlength="1" size="1" value=""/></td>';
 
         }
         text+='</tr>';

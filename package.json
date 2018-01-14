@@ -12,11 +12,16 @@
     "dependencies": {
         "cordova-android": "^7.0.0",
         "cordova-ios": "^4.5.4",
+        "cordova-plugin-camera": "^4.0.1",
         "cordova-plugin-whitelist": "^1.3.3"
     },
     "cordova": {
         "plugins": {
-            "cordova-plugin-whitelist": {}
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-camera": {
+                "CAMERA_USAGE_DESCRIPTION": "Please allow access to your camera to take photos of sudokus.",
+                "PHOTOLIBRARY_USAGE_DESCRIPTION": "Please allow access to your photo library to use exsisting images taken"
+            }
         },
         "platforms": [
             "android",
