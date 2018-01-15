@@ -17,5 +17,13 @@
       "CAMERA_USAGE_DESCRIPTION": "Please allow access to your camera to take photos of sudokus.",
       "PHOTOLIBRARY_USAGE_DESCRIPTION": "Please allow access to your photo library to use exsisting images taken"
     }
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }

@@ -122,7 +122,7 @@ function drawTable(doneGrid) {
                     text+= ' class="verticalSep"';
                 }
 
-                text += '><input style="max-width: 3em;" type="tel" name="' + i + '' + j + '" maxlength="1" size="1" value="' + doneGrid[i][j] + '"/></td>';
+                text += '><input style="width:8vmin; height:8vmin" type="tel" name="' + i + '' + j + '" maxlength="1" size="1" value="' + doneGrid[i][j] + '"/></td>';
             }
             text+='</tr>';
         }
@@ -147,7 +147,7 @@ function inputTable() {
                 text+= ' class="verticalSep"';
             }
 
-            text+= '><input style="max-width: 3em;" type="tel" name="'+i +'' +j +'" maxlength="1" size="1" value=""/></td>';
+            text+= '><input style="width:8vmin; height:8vmin" type="tel" name="'+i +'' +j +'" maxlength="1" size="1" value=""/></td>';
 
         }
         text+='</tr>';

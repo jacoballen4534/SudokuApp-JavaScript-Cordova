@@ -8,122 +8,66 @@
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change beforePath="$PROJECT_DIR$/platforms/android/android.json" afterPath="$PROJECT_DIR$/platforms/android/android.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build.gradle" afterPath="$PROJECT_DIR$/platforms/android/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/generated/source/r/debug/io/cordova/hellocordova/R.java" afterPath="$PROJECT_DIR$/platforms/android/app/build/generated/source/r/debug/io/cordova/hellocordova/R.java" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/cordova_plugins.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/io/cordova/hellocordova/R$xml.class" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/io/cordova/hellocordova/R$xml.class" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+RkjIlqbwpSLvkFpbcZX19kuATA=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/+RkjIlqbwpSLvkFpbcZX19kuATA=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/js/UsingCamera.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/js/UsingCamera.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/release/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/release/www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/release/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/release/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/release/www/js/UsingCamera.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/release/www/js/UsingCamera.js" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/_Yexy9gQP5Xr8HWFDAF69vqUP78=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/4pTfaTLlR1yVYxb5GY1UL76iYt4=" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/4pTfaTLlR1yVYxb5GY1UL76iYt4=" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageRelease/release/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageRelease/release/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageRelease/release/file-input-save-data.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageRelease/release/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageRelease/release/zip-cache/ZcqawUq8EZl3LF0wQfce2+cmknE=" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageRelease/release/zip-cache/ZcqawUq8EZl3LF0wQfce2+cmknE=" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/release-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/release-mergeJavaRes/merge-state" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_icon.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/symbols/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/MainActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/R$mipmap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/R$xml.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/cordova/hellocordova/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/BuildConfig.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/MainActivity.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/R$drawable.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/R$mipmap.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/R$string.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/R$xml.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/cordova/hellocordova/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/whitelist/WhitelistPlugin$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/whitelist/WhitelistPlugin.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/4.jar" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/release/resources-release.ap_" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/res/release/resources-release.ap_" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/release/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/release/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/stackFramesFixer/debug/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/stackFramesFixer/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/preDex/release/3.jar" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/preDex/release/3.jar" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/preDex/release/__content__.json" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/preDex/release/__content__.json" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/debug/app-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/.idea/workspace.xml" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/.idea/www.iml" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/.idea/www.iml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/reports/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/reports/lint-results-release-fatal.html" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/UsingCamera.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/UsingCamera.js" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" />
       <change beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/project.properties" afterPath="$PROJECT_DIR$/platforms/android/project.properties" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/JacobSudoku.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/JacobSudoku.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/JacobSudoku.xcodeproj/project.xcworkspace/xcuserdata/jacoballen.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/JacobSudoku.xcodeproj/project.xcworkspace/xcuserdata/jacoballen.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/JacobSudoku/JacobSudoku-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/JacobSudoku/JacobSudoku-Info.plist" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/JacobSudoku/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/JacobSudoku/config.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/frameworks.json" afterPath="$PROJECT_DIR$/platforms/ios/frameworks.json" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/ios.json" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/.idea/workspace.xml" afterPath="$PROJECT_DIR$/platforms/ios/www/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/.idea/www.iml" afterPath="$PROJECT_DIR$/platforms/ios/www/.idea/www.iml" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/js/sketch.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/sketch.js" />
       <change beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
       <change beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
       <change beforePath="$PROJECT_DIR$/plugins/ios.json" afterPath="$PROJECT_DIR$/plugins/ios.json" />
       <change beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/www/js/UsingCamera.js" afterPath="$PROJECT_DIR$/www/js/UsingCamera.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -140,8 +84,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,8 +94,8 @@
       <file leaf-file-name="UsingCamera.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/UsingCamera.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -170,13 +114,23 @@
       <file leaf-file-name="sketch.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/sketch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="133" column="23" lean-forward="false" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+            <state relative-caret-position="421">
+              <caret line="101" column="52" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="52" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <marker date="1515694084000" expanded="true" signature="3274:3299" ph="..." />
                 <marker date="1515694084000" expanded="true" signature="3951:3976" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecursiveFunction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/RecursiveFunction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -311,12 +265,12 @@
       <updated>1515401466811</updated>
       <workItem from="1515401469579" duration="1671000" />
       <workItem from="1515567800786" duration="11000" />
-      <workItem from="1515919853716" duration="3324000" />
+      <workItem from="1515919853716" duration="9341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5006000" />
+    <option name="totallyTimeSpent" value="11023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -467,39 +421,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/StyleSheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/HelperFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1904">
           <caret line="65" column="43" lean-forward="false" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/RecursiveFunction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/sketch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="133" column="23" lean-forward="false" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1515694084000" expanded="true" signature="3274:3299" ph="..." />
-            <marker date="1515694084000" expanded="true" signature="3951:3976" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,18 +437,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/StyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/sketch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="101" column="52" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1515694084000" expanded="true" signature="3274:3299" ph="..." />
+            <marker date="1515694084000" expanded="true" signature="3951:3976" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/RecursiveFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/UsingCamera.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding />
         </state>
       </provider>

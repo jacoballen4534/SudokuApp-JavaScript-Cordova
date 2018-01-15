@@ -8,6 +8,8 @@ function setOptions(srcType) {
         encodingType: Camera.EncodingType.JPEG,
         mediaType: Camera.MediaType.PICTURE,
         allowEdit: false,
+        targetHeight: 400,
+        targetWidth: 400,
         cameraDirection: Camera.Direction.BACK,
         correctOrientation: true,  //Corrects Android orientation quirks
         saveToPhotoAlbum: false
@@ -16,11 +18,20 @@ function setOptions(srcType) {
 }
 
 
-function openCamera() {
+function openCamera(cam) {
 
-    let srcType = Camera.PictureSourceType.CAMERA;
+    let srcType;
+    if (cam === 0) {
+        if (!(device.isVirtual && device.platform === "IOS")) {
+            srcType = Camera.PictureSourceType.CAMERA;
+        } else {
+            alert('Sorry, the camera does not work on a iphone simulator');
+            srcType = Camera.PictureSourceType.SAVEDPHOTOALBUM;
+        }
+    } else {
+        srcType = Camera.PictureSourceType.SAVEDPHOTOALBUM;
+    }
     let options = setOptions(srcType);
-    // let func = createNewFileEntry;
 
     navigator.camera.getPicture(function cameraSuccess(imageUri) {
 
@@ -40,3 +51,5 @@ function displayImage(imgUri) {
     let elem = document.getElementById('imageFile');
     elem.src = "data:image/jpeg;base64," +imgUri;
 }
+
+

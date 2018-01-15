@@ -19,6 +19,12 @@
         <param name="ios-package" value="CDVGestureHandler" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="Camera">
+        <param name="ios-package" value="CDVCamera" />
+    </feature>
+    <feature name="Device">
+        <param name="ios-package" value="CDVDevice" />
+    </feature>
     <name>JacobSudoku</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -34,6 +40,24 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <config-file parent="NSPhotoLibraryUsageDescription" target="*-Info.plist">
+        <string>Please allow access to your photos to import images.</string>
+    </config-file>
+    <config-file parent="NSCameraUsageDescription" target="*-Info.plist">
+        <string>Please allow access to your camera to take photos.</string>
+    </config-file>
+    <config-file parent="NSMicrophoneUsageDescription" target="*-Info.plist">
+        <string>Please allow access to your microphone to record audio.</string>
+    </config-file>
+    <config-file parent="NSContactsUsageDescription" target="*-Info.plist">
+        <string>Please allow access to your contacts.</string>
+    </config-file>
+    <config-file parent="NSCalendarsUsageDescription" target="*-Info.plist">
+        <string>Please allow access to your calendar.</string>
+    </config-file>
+    <config-file parent="NSBluetoothPeripheralUsageDescription" target="*-Info.plist">
+        <string>Please allow access to use bluetooth within this app.</string>
+    </config-file>
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
@@ -49,8 +73,5 @@
     <preference name="PageLength" value="0" />
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
-    <feature name="Camera">
-        <param name="ios-package" value="CDVCamera" />
-    </feature>
     <preference name="CameraUsesGeolocation" value="false" />
 </widget>

@@ -1,6 +1,7 @@
 #Internal package file, do not edit.
-#Sun Jan 14 23:36:51 NZDT 2018
+#Mon Jan 15 19:24:10 NZDT 2018
 25.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release/www/cordova.js
+41.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release
 25.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release
 22.set=ASSET
 36.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release/www/plugins/cordova-plugin-camera/www/CameraPopoverHandle.js
@@ -14,7 +15,7 @@
 30.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 14.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 16.set=ASSET
-count=41
+count=42
 6.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/mipmap-mdpi-v4/icon.png
 6.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 26.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release/www/js/sketch.js
@@ -70,6 +71,7 @@ count=41
 39.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release/www/plugins/cordova-plugin-camera/www/CameraConstants.js
 2.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 39.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release
+41.set=ASSET
 22.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release/www/cordova-js-src/exec.js
 22.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release
 0.set=ANDROID_RESOURCE
@@ -124,3 +126,4 @@ count=41
 3.set=ASSET
 5.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release
 33.set=ASSET
+41.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/release/www/plugins/cordova-plugin-device/www/device.js
