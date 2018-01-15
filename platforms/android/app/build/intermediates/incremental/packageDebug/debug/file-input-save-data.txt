@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 15 20:20:08 NZDT 2018
+#Mon Jan 15 22:00:11 NZDT 2018
 25.file=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/debug/www/cordova-js-src/android/nativeapiprovider.js
 41.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/debug
 25.base=/Users/jacoballen/Desktop/SudokuApp-JavaScript/platforms/android/app/build/intermediates/assets/debug
