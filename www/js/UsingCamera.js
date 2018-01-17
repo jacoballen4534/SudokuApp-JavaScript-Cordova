@@ -53,7 +53,7 @@ function displayImage(imgUri) {
     blackWhite();
 }
 
-
+// can try using different DestinationType
 
 
 function blackWhite() {
@@ -86,4 +86,5 @@ function blackWhite() {
         }
     }
     ctx.putImageData(imageData,0,0);
+    // document.getElementById('imageFile').src =
 }

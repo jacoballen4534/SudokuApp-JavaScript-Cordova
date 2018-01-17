@@ -53,7 +53,7 @@ function displayImage(imgUri) {
     blackWhite();
 }
 
-
+// can try using different DestinationType
 
 
 function blackWhite() {
